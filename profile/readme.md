@@ -26,10 +26,10 @@
 
 ### Contents:
   - [Teams](#teams)
-      - [MahdiPakravan](#mahdi-pakravan-)
-      - [MahdiAghaei](#mahdi-aghaei-)
-      - [MasoudShahpoori](#masoud-shahpoori-)
-      - [SinaFakhredin](#sina-fakhredin-)
+      - [MahdiPakravan](#mahdipakravan)
+      - [MahdiAghaei](#mahdiaghaei)
+      - [MasoudShahpoori](#masoudshahpoori)
+      - [SinaFakhredin](#sinafakhredin)
       
 ## Teams
 
