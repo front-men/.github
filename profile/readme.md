@@ -26,27 +26,21 @@
 
 ### Contents:
   - [Teams](#teams)
-      - [MahdiPakravan](#mahdipakravan)
-      - [MahdiAghaei](#mahdiaghaei)
-      - [MasoudShahpoori](#masoudshahpoori)
-      - [SinaFakhredin](#sinafakhredin)
       
 ## Teams
 
 
-## MahdiPakravan
-This is MahdiAghaei Section
+## Teams
 
-## MehdiAghaei
-This is MahdiAghaei Section
+we are mern-stack developers
 
+| Name              | Supported           |
+|-------------------|---------------------|
+| MahdiPakravan     | MernStack Developer |
+| MahdiAghaei       | MernStack Developer |
+| MasoudShahpoori   | Frontend Developer  |
+| SinaFakhredin     | Frontend Developer  |
 
-## MasoudShahpoori
-This is MahdiAghaei Section
-
-
-## SinaFakhredin
-This is MahdiAghaei Section
 
 ## Contribute
 
